@@ -115,11 +115,10 @@ input {
 
 /* Login CSS */
 .container{
-    align-items: center;
-    justify-content: center;
     display: flex;
     flex-direction: column;
     margin: auto;
+    width: 600px;
     background: #fff;
 }
 
@@ -173,24 +172,26 @@ input {
     font-size: 19px;
 }
 
-.already-member{
-    margin-left: -150px;
+.forgot-password{
+    margin-left: 370px;
     margin-top: 27px;
     color: #797979;
     font-size: 18px;
 }
 
-.already-member span{
+.forgot-password span{
     color: #000;
     cursor: pointer;
 }
 
 .submit-container{
+    margin: 50px auto;
+    align-self: center;
     display: flex;
     gap: 30px;
 }
 
-#btnModel{
+.submit{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -202,4 +203,9 @@ input {
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
+}
+
+.gray{
+    background: #eaeaea;
+    color: #676767;
 }

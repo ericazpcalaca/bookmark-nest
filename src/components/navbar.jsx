@@ -1,14 +1,35 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import {Link} from 'react-router-dom';
 import Logo from './logo';
 import SearchBar from './searchBar';
 import Model from 'react-modal';
-import Login from './login';
-import SignUp from './signUp';
+import Modal from 'react-modal';
+import LogSinScreen from './logSinScreen';
 
 
 const NavBar = () => {
   const [visible,setVisible] = useState(false);
+  const [typeAction,setTypeAction] = useState("");
+
+  /*
+  To resolve the "App element is not defined" warning 
+  for the react-modal library, I set the app element 
+  using the Modal.setAppElement(el) method with the root 
+  element of my application.
+  */
+  useEffect(() => {
+    Modal.setAppElement('.App'); 
+  }, []);
+  
+ 
+  const openModal = (action) => {
+    setVisible(true);
+    setTypeAction(action); // Set the typeAction based on the button clicked
+  };
+
+  const closeModal = () => {
+    setVisible(false);
+  };
 
   // Modal styles
   const customStyles = {
@@ -41,16 +62,17 @@ const NavBar = () => {
           <SearchBar />
         </div>
         <div className='item'>
-          <button id="btnSignUp" className='btn' onClick={() => setVisible(true)}>Sign up</button>
+          <button id="btnSignUp" className='btn' onClick={() => openModal("sign up")}>Sign up</button>
+          <button id="btnLogin" className='btn' onClick={() => openModal("login")}>Login</button>
+
           <Model 
             isOpen={visible} 
-            onRequestClose={() => setVisible(false)}
+            onRequestClose={closeModal}
             style={customStyles}>
-              <SignUp />
-              {/* <button onClick={() => setVisible(false)}>Close model</button> */}
+              <LogSinScreen 
+                typeAction={typeAction}/>
           </Model>
 
-          <button id="btnLogin" className='btn'>Login</button>
         </div>        
       </div>      
     </nav>
