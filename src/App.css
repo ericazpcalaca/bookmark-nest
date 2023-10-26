@@ -88,6 +88,10 @@ input {
     font-weight: bold;
 }
 
+.item-logged{
+    height: 2rem;
+}
+
 .footerBar{
     display: flex;
     justify-content: center;
