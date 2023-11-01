@@ -12,6 +12,7 @@
 }
 .item-logo{
     font-size: 2.5rem;
+    text-decoration: none;
 }
 
 .navbar{
@@ -90,6 +91,12 @@ input {
 
 .item-logged{
     height: 2rem;
+    margin-top: 1rem;
+    color: #eaeaea;
+}
+
+Link{
+    text-decoration: none;
 }
 
 .footerBar{
@@ -208,4 +215,21 @@ input {
 .gray{
     background: #eaeaea;
     color: #676767;
+}
+
+.home{
+    margin: 2.5rem 3rem;
+}
+
+.release, .trending{
+    padding-left: .5rem;
+    background-color: #eaeaea;
+    border-radius: 3px;
+}
+
+.release h3, .trending h3{
+    padding-top: .5rem;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
 }
