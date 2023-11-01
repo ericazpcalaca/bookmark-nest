@@ -1,15 +1,14 @@
 import React from 'react';
 import BookSearch from '../components/bookSearch';
 import ReleaseList from '../components/releaseList';
+import CarouselDisplay from '../components/carouselDisplay';
 
 const Home = () => {
   return (
     <>
       <div className="home">
 
-        <div className="carousel">
-          <h3>Carrossel com imagens felizes :) </h3>
-        </div>
+        <CarouselDisplay />
 
         <ReleaseList/>        
         
