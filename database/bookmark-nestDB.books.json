@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "656e78204b8566e70840de55"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publisher": "Scribner",
+  "description": "At the height of his wealth, powerful and envied, isolated in the splendor of his mansion on the Hudson, lives a man condemned to unhappiness. This man is Gatsby, an ex-gangster locked in his own mysterious profession, in a false past from which emerges at times the memory of a single pure youthful love.The young Nick Carraway, the narrator of the novel, moves to New York in the summer of 1922 and rents a house in the prestigious and dreamy Long Island, inhabited by many newly rich people frantically engaged in celebrating each other. One neighbor strikes Nick in particular: the mysterious Jay Gatsby, who lives in a huge, gaudy house, filling it every Saturday night with guests at his extravagant parties. Yet he lives in desperate loneliness and in senseless love for Nick's cousin Daisy....In the setting of a brilliant and unsatisfied society, where the world of alcohol smugglers mixes with that of bankers and stars, Gatsby desperately pursues his dream of love for Daisy. To no avail now is its power, except to arouse in both lovers a sweet madness, which will end in tragedy.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=iXn5U2IzVH0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=iXn5U2IzVH0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  "pageCount": 180,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e78204b8566e70840de56"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publisher": "J.B. Lippincott & Co.",
+  "description": "Voted America's Best-Loved Novel in PBS's The Great American Read Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred One of the most cherished stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father—a crusading local lawyer—risks everything to defend a black man unjustly accused of a terrible crime.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e78204b8566e70840de57"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publisher": "Secker & Warburg",
+  "description": "\"Nineteen Eighty-Four: A Novel\\\", often published as \\\"1984\\\", is a dystopian social science fiction novel by English novelist George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, \\\"Nineteen Eighty-Four\\\" centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society. Orwell, himself a democratic socialist, modelled the authoritarian government in the novel after Stalinist Russia. More broadly, the novel examines the role of truth and facts within politics and the ways in which they are manipulated. The story takes place in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, omnipresent government surveillance, historical negationism, and propaganda. Great Britain, known as Airstrip One, has become a province of a totalitarian superstate named Oceania that is ruled by the Party who employ the Thought Police to persecute individuality and independent thinking. Big Brother, the leader of the Party, enjoys an intense cult of personality despite the fact that he may not even exist. The protagonist, Winston Smith, is a diligent and skillful rank-and-file worker and Outer Party member who secretly hates the Party and dreams of rebellion. He enters into a forbidden relationship with a colleague, Julia, and starts to remember what life was like before the Party came to power.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=PEpoEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=PEpoEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 328,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e78204b8566e70840de58"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "publisher": "George Allen & Unwin",
+  "description": "Bilbo Baggins, the hobbit, is a peaceful sort who lives in a cozy hole in the Shire, a place where adventures are uncommon - and rather unwanted. So when the wizard Gandalf whisks him away on a treasure-hunting expedition with a troop of rowdy dwarves, he's not entirely thrilled. Encountering ruthless trolls, beastly orcs, gigantic spiders, and hungry wolves, Bilbo discovers within himself astonishing strength and courage. And at the ultimate confrontation with the fearsome dragon Smaug, the hobbit will brave the dangers of the dark and dragon fire alone and unaided.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=TCtXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=TCtXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+  },
+  "pageCount": 310,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656e78204b8566e70840de59"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publisher": "T. Egerton, Whitehall",
+  "description": "Elizabeth Bennet is Austen’s most liberated and appealing heroine, and Pride and Prejudice has remained over most of the past two centuries Austen’s most popular novel. The story turns on the marriage prospects of the five daughters of Mr. and Mrs. Bennet, and especially on Elizabeth’s prejudice against the proud and distant Fitzwilliam Darcy. Pride and Prejudice is a romantic comedy that has been read as conservative and feminist, reactionary and revolutionary, rooted in the time of its composition and deliberately timeless. Robert Irvine’s introduction sets the novel in the context of the literary and intellectual history of the period, dealing with such crucial background issues as class relations in Britain, female exclusion from property and power, and the impact of the French Revolution. The introduction and annotations have been expanded and updated for the new edition, and a new appendix of Austen’s juvenilia has been added.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=w7kgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=w7kgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 279,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d30"
+  },
+  "title": "Harry Potter and the Cursed Child",
+  "author": "J. K. Rowling, Jack Thorne, John Tiffany",
+  "publisher": "Arthur A. Levine Books",
+  "description": "It was always difficult being Harry Potter and it isnt much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children.While Harry grapples with a past that refuses to stay where it belongs, his youngest son, Albus, must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: Sometimes, darkness comes from unexpected places.The playscript for Harry Potter and the Cursed Child was originally released as a special rehearsal edition alongside the opening of Jack Thornes play in London s West End in summer 2016. Based on an original story by J.K. Rowling, John Tiffany, and Jack Thorne, the play opened to rapturous reviews from theatergoers and critics alike, while the official playscript became an immediate global bestseller.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+  },
+  "pageCount": 336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d31"
+  },
+  "title": "On Decline",
+  "author": "Andrew Potter",
+  "publisher": "Biblioasis",
+  "description": "A Winnipeg Free Press Top Read of 2021 What if David Bowie really was holding the fabric of the universe together? The death of David Bowie in January 2016 was a bad start to a year that got a lot worse: war in Syria, the Zika virus, terrorist attacks in Brussels and Nice, the Brexit vote—and the election of Donald Trump. The end-of-year wraps declared 2016 “the worst … ever.” Four even more troubling years later, the question of our apocalypse had devolved into a tired social media cliché. But when COVID-19 hit, journalist and professor of public policy Andrew Potter started to wonder: what if The End isn t one big event, but a long series of smaller ones? In On Decline, Potter surveys the current problems and likely future of Western civilization (spoiler: its not great). Economic stagnation and the slowing of scientific innovation. Falling birth rates and environmental degradation. The devastating effects of cultural nostalgia and the havoc wreaked by social media on public discourse. Most acutely, the various failures of Western governments in their responses to the COVID-19 pandemic. If the legacy of the Enlightenment and its virtues—reason, logic, science, evidence—has run its course, how and why has it happened? And where do we go from here?",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=l3X_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=l3X_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 72,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d32"
+  },
+  "title": "The Unofficial Harry Potter  Inspired Book of Cocktails",
+  "author": "Rhiannon Lee, Georgia Hingston",
+  "publisher": "Simon and Schuster",
+  "description": "Magical Masterpieces of Mixology Inspired by the Harry Potter Universe With simple instructions and insider bartender know-how, The Unofficial Potter Inspired Book of Cocktails is the perfect guide of spell-tacular spirits for age-appropriate witches and wizards. The seventy-five potions and elixirs featured in this book are cocktail classics that have been given a magical makeover using unique ingredients such as activated charcoal, popping candy, and dry ice, transforming the mundane mixed drink into a bewitching brewed beverage. Charm guests with color-changing concoctions, fizzing cocktail bombs, and flaming creations, including: Butterscotch Beer Nearly Legless Nick Expecto Martini Hex on the Beach Tom Riddle-Collins And more! Whether you re a witch, wizard, squib, or muggle, everyone can enjoy that magical feeling of finding their perfect sip with The Unofficial Harry Potter Inspired Book of Cocktails.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=17UYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=17UYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 168,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d33"
+  },
+  "title": "Fourth Wing",
+  "author": "Rebecca Yarros",
+  "publisher": "Entangled: Red Tower Books",
+  "description": "An Instant New York Times Bestseller A Goodreads Most Anticipated Book Suspenseful, sexy, and with incredibly entertaining storytelling, the first in Yarros Empyrean series will delight fans of romantic, adventure-filled fantasy. —Booklist, starred review Fourth Wing will have your heart pounding from beginning to end... A fantasy like you ve never read before. ―#1 New York Times bestselling author Jennifer L. Armentrout Enter the brutal and elite world of a war college for dragon riders from New York Times bestselling author Rebecca Yarros Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: dragon riders. But when you re smaller than everyone else and your body is brittle, death is only a heartbeat away...because dragons don t bond to “fragile” humans. They incinerate them. With fewer dragons willing to bond than cadets, most would kill Violet to better their own chances of success. The rest would kill her just for being her mother s daughter—like Xaden Riorson, the most powerful and ruthless wingleader in the Riders Quadrant. She ll need every edge her wits can give her just to see the next sunrise. Yet, with every day that passes, the war outside grows more deadly, the kingdom s protective wards are failing, and the death toll continues to rise. Even worse, Violet begins to suspect leadership is hiding a terrible secret. Friends, enemies, lovers. Everyone at Basgiath War College has an agenda—because once you enter, there are only two ways out: graduate or die. The Empyrean series is best enjoyed in order. Reading Order: Book #1 Fourth Wing Book #2 Iron Flame",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=E-OLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=E-OLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 644,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d34"
+  },
+  "title": "The Night Before the Fourth of July",
+  "author": "Natasha Wing",
+  "publisher": "Penguin",
+  "description": "The twentieth title in the bestselling Night Before series is the perfect summer treat! Its the night before the Fourth of July and all across the United States people are getting ready for hot dogs and fireworks. Decked in red, white, and blue, a family heads to a parade, hosts a backyard BBQ with friends and family, dodges an afternoon thundershower, and of course, watches a fireworks show. The Night Before the Fourth of July captures all the fun, excitement, and pride of the best summer holiday!",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=_5MvBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=_5MvBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 32,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d35"
+  },
+  "title": "The Woman in Me",
+  "author": "Britney Spears",
+  "publisher": "Simon and Schuster",
+  "description": "The Woman in Me is a brave and astonishingly moving story about freedom, fame, motherhood, survival, faith, and hope. In June 2021, the whole world was listening as Britney Spears spoke in open court. The impact of sharing her voice—her truth—was undeniable, and it changed the course of her life and the lives of countless others. The Woman in Me reveals for the first time her incredible journey—and the strength at the core of one of the greatest performers in pop music history. Written with remarkable candor and humor, Spearss groundbreaking book illuminates the enduring power of music and love—and the importance of a woman telling her own story, on her own terms, at last.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=zq2bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=zq2bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 288,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d36"
+  },
+  "title": "The Duke and I",
+  "author": "Julia Quinn",
+  "publisher": "Harper Collins",
+  "description": "Simon Basset, the irresistible Duke of Hastings, has hatched a plan to keep himself free from the town s marriage-minded society mothers. He pretends to be engaged to the lovely Daphne Bridgerton. After all, it isnt as if the brooding rogue has any real plans to marry - though there is something about the alluring Miss Bridgerton that sets Simon′s heart beating a bit faster. And as for Daphne, surely the clever debutante will attract some very worthy suitors now that it seems a duke has declared her desirable. But as Daphne waltzes across ballroom after ballroom with Simon, she soon forgets that their courtship is a complete sham. And now she has to do the impossible and keep herself from losing her heart and soul completely to the handsome hell-raiser who has sworn off marriage forever!",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=-mlBcC_JXv8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=-mlBcC_JXv8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  "pageCount": 198,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d37"
+  },
+  "title": "The Bridgertons: Happily Ever After",
+  "author": "Julia Quinn",
+  "publisher": "Harper Collins",
+  "description": "1 New York Times bestselling author Julia Quinn presents a novella featuring Violet Bridgerton along with a collection of second epilogues to her Bridgerton series—her beloved Regency-set novels featuring her charming, powerful Bridgerton family—now a series created by Shondaland for Netflix. Ever wonder what happens after the Happily Ever After? Julia Quinn s Bridgerton series remains one of the most beloved among historical romance readers, and this collection of second epilogues—stories that take place after the original books end—offers fans more from their favorite characters. Also unique to this volume is a novella featuring Violet Bridgerton, beloved mother of the eight Bridgerton siblings, in addition to second epilogues for The Duke and I; The Viscount Who Loved Me; An Offer from a Gentleman; Romancing Mister Bridgerton; To Sir Phillip, With Love; When He Was Wicked, It s in His Kiss; and On the Way to the Wedding sure to satisfy the legions of Julia Quinn fans.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=bKa8cmtufJgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=bKa8cmtufJgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 303,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d38"
+  },
+  "title": "Key Java",
+  "author": "John Hunt, Alexander G. McManus",
+  "publisher": "Springer Science & Business Media",
+  "description": "Intended for those who already know the Java language, this book will help programmers get the most out of Javas capabilities. Topics covered include: good Java style for reusable components, using Java beans, the JDBC, optimizing and testing code, using the IFC tools, and the new JFC. It also explores the significant and exciting developments in Java and covers techniques that will be fundamental to programmers developing significant applications in Java.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=T-oY6jbgjs8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=T-oY6jbgjs8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 356,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d39"
+  },
+  "title": "Java For Artists",
+  "author": "Rick Miller",
+  "publisher": "Pulp Free Press",
+  "description": "Java For Artists: The Art, Philosophy, and Science of Object-Oriented Programming is a Java programming language text/tradebook that targets beginner and intermediate Java programmers.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=AcI6_aBD17sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=AcI6_aBD17sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 856,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700b9850fc1582fec12d3a"
+  },
+  "title": "Suddenly You",
+  "author": "Lisa Kleypas",
+  "publisher": "Harper Collins",
+  "description": "he was unmarried, untouched and almost thirty, but novelist Amanda Briars wasnt about to greet her next birthday without making love to a man. When he appeared at her door, she believed he was her gift to herself, hired for one night of passion. Unforgettably handsome, irresistibly virile, he tempted her in ways she never thought possible...but something stopped him from completely fulfilling her dream. Jack Delvins determination to possess Amanda became greater when she discovered his true identity. But gently-bred Amanda craved respectability more than she admitted, while Jack, the cast-off son of a nobleman and London′s most notorious businessman, refused to live by societys rules. Yet when fate conspired for them to marry, their worlds collided with a passionate force neither had expected...but both soon craved.\"",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=IlN-Nt4NhCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=IlN-Nt4NhCQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  "pageCount": 385,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700e62f674421bfa2d40c1"
+  },
+  "title": "The C Book, Featuring the ANSI C Standard",
+  "author": "Mike Banahan",
+  "publisher": "Addison-Wesley",
+  "description": "his book presents an introduction to the C programming language, featuring a structured approach and aimed at professionals and students with some experience of high-level languages. Features *includes embedded summary material in bulleted form *highlights common traps and pitfalls in C programming.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+  },
+  "pageCount": 310,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700e62f674421bfa2d40c2"
+  },
+  "title": "The Lord of the Rings and Philosophy",
+  "author": "Gregory Bassham",
+  "publisher": "Open Court",
+  "description": "The Lord of the Rings is intended to be applicable to the real world of relationships, religion, pleasure, pain, and politics. Tolkien himself said that his grand tale of wizards, orcs, hobbits, and elves was aimed at truth and good morals in the actual world. Analysis of the popular appeal of The Lord of the Rings (on websites and elsewhere) shows that Tolkien fans are hungry for discussion of the urgent moral and cosmological issues arising out of this fantastic epic story. Can political power be wielded for good, or must it always corrupt? Does technology destroy the truly human? Is it morally wrong to give up hope? Can we find meaning in chance events? In The Lord of the Rings and Philosophy, seventeen young philosophy professors, all of them ardent Tolkien fans and most of them contributors to the four earlier volumes in the Popular Culture and Philosophy series, address some of these important issues and show how clues to their solutions may be found in the imaginary world of Middle-earth. The book is divided into five sections, concerned with Power and the Ring, the Quest for Happiness, Good and Evil in Middle-earth, Time and Mortality, and the Relevance",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=Dw-NAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=Dw-NAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700e62f674421bfa2d40c3"
+  },
+  "title": "The Lightning Thief",
+  "author": "Rick Riordan",
+  "publisher": "Disney Electronic Content",
+  "description": "Percy Jackson is about to be kicked out of boarding school...again. And that s the least of his troubles. Lately, mythological monsters and the gods of Mount Olympus seem to be walking straight out of the pages of Percys Greek mythology textbook and into his life. Book #1 in the NYT best-selling series, with cover art from the feature film, The Lightning Thief.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=MpC3_SuCss4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=MpC3_SuCss4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 168,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700e62f674421bfa2d40c4"
+  },
+  "title": "Percy Jackson and the Olympians, Book Three: The Titans Curse",
+  "author": "Rick Riordan",
+  "publisher": "Disney Electronic Content",
+  "description": "When the goddess Artemis goes missing, she is believed to have been kidnapped. And now its up to Percy and his friends to find out what happened. Who is powerful enough to kidnap a goddess?",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=xszg4sndpVwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=xszg4sndpVwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 317,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65700e62f674421bfa2d40c5"
+  },
+  "title": "React and React Native",
+  "author": "Adam Boduch\"",
+  "publisher": "Packt Publishing Ltd",
+  "description": "Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps About This Book Build React and React Native applications using familiar component concepts Dive deep into each platform, from routing in React to creating native mobile applications that can run offline Use Facebooks Relay, React and GraphQL technologies, to create a unified architecture that powers both web and native applications",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=jLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=jLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 32,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657247c8eab043a7a7585f15"
+  },
+  "title": "The C Book",
+  "author": "Mike Banahan",
+  "publisher": "Addison-Wesley",
+  "description": "This book presents an introduction to the C programming language, featuring a structured approach and aimed at professionals and students with some experience of high-level languages. Features *includes embedded summary material in bulleted form *highlights common traps and pitfalls in C programming.",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+  },
+  "pageCount": 310,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657247c8eab043a7a7585f16"
+  },
+  "title": "The Lord of the Rings",
+  "author": "Gregory Bassham",
+  "publisher": "Open Court",
+  "description": "All three parts of the epic masterpiece The Lord of the Rings – The Fellowship of the Ring, The Two Towers & The Return of the King – available as one download, featuring the definitive edition of the text, hyperlinked footnotes and page references, and 3 maps including a detailed map of Middle-earth",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=FKziXsnqLTEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=FKziXsnqLTEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657247c8eab043a7a7585f17"
+  },
+  "title": "Beyond the story: 10 ani de poveste BTS",
+  "author": "Rick Riordan",
+  "publisher": "Editura Trei",
+  "description": "here are so many k-pop boy groups, while the groups are too numerous to mention one by one. However, some of them just disappear after debut, and only a very small minority of k-pop boy groups can become popular. By the way, there is a boy group who has been on the steady rise since its debut and is now considered as one of the most popular k-pop idol groups. (Thats what their fans like to think about lol)",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=UjFuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=UjFuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 113,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657247c8eab043a7a7585f18"
+  },
+  "title": "Percy Jackson and the Olympians, Book Two: The Sea of Monsters",
+  "author": "Rick Riordan",
+  "publisher": "Disney Electronic Content",
+  "description": "After a summer spent trying to prevent a catastrophic war among the Greek gods, Percy Jackson finds his seventh-grade school year unnervingly quiet. His biggest problem is dealing with his new friend, Tyson—a six-foot-three, mentally challenged homeless kid who follows Percy everywhere, making it hard for Percy to have any \"normal\" friends. But things dont stay quiet for long...",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=gLPvoLN0meUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=gLPvoLN0meUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 325,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657247c8eab043a7a7585f19"
+  },
+  "title": "The Big Book of BTS",
+  "author": "Katy Sprinkel",
+  "publisher": "Triumph Books",
+  "description": "Between selling out arenas, presenting at the Grammy Awards, and dropping mixtapes, BTS has still found time to release chart-topping hits like \"Fake Love\" and \"Idol.\" For these K-Pop icons, the best may still be yet to come. The Big Book of BTS is the ultimate guide to all things Bangtan. Including more than 100 full-color photographs, fans are provided an in-depth look at the lives of RM, J-Hope, Suga, Jimin, V, Jin, and Jungkook. This keepsake explores their meteoric rise, musical influences, unbeatable style, far-reaching activism, and bond with fans. A must-have for ARMYs as well as new K-Pop fans everywhere!",
+  "imageLinks": {
+    "smallThumbnail": "https://books.google.com/books/content?id=Kx2SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "https://books.google.com/books/content?id=Kx2SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  "pageCount": 208,
+  "__v": 0
+}]

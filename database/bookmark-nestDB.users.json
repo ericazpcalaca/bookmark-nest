@@ -1,0 +1,581 @@
+[{
+  "_id": {
+    "$oid": "656ea3012348b62f55dcc20f"
+  },
+  "name": "John Doe",
+  "email": "john@example.com",
+  "password": "hashed_password_1",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea3012348b62f55dcc210"
+  },
+  "name": "Alice Smith",
+  "email": "alice@example.com",
+  "password": "hashed_password_2",
+  "favorites": [
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d36"
+    }
+  ],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "656e78204b8566e70840de55"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea3012348b62f55dcc211"
+  },
+  "name": "Bob Johnson",
+  "email": "bob@example.com",
+  "password": "hashed_password_3",
+  "favorites": [
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c3"
+    }
+  ],
+  "toReadList": [],
+  "reading": [
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "656e78204b8566e70840de59"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700e62f674421bfa2d40c3"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea3012348b62f55dcc212"
+  },
+  "name": "Eva Rodriguez",
+  "email": "eva@example.com",
+  "password": "hashed_password_4",
+  "favorites": [
+    {
+      "$oid": "65700b9850fc1582fec12d37"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c2"
+    },
+    {
+      "$oid": "656e78204b8566e70840de59"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c1"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    },
+    {
+      "$oid": "656e78204b8566e70840de56"
+    }
+  ],
+  "toReadList": [
+    {
+      "$oid": "65700b9850fc1582fec12d32"
+    },
+    {
+      "$oid": "656e78204b8566e70840de59"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c1"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d33"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c3"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d34"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d30"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    }
+  ],
+  "reading": [
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c1"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d33"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c3"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d32"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d34"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d30"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    }
+  ],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea3012348b62f55dcc213"
+  },
+  "name": "Michael Brown",
+  "email": "michael@example.com",
+  "password": "hashed_password_5",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ea47b0b2ad3cb85c35075"
+  },
+  "email": "erica@gmail.com",
+  "password": "salsicha",
+  "favorites": [
+    {
+      "$oid": "656e78204b8566e70840de57"
+    },
+    {
+      "$oid": "656e78204b8566e70840de58"
+    }
+  ],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0,
+  "name": "Outra erica"
+},
+{
+  "_id": {
+    "$oid": "656ea5353011b696d0bee294"
+  },
+  "name": "Erika",
+  "email": "erikahuehue@gmail.com",
+  "password": "salsicha",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ee67145751803139a2227"
+  },
+  "email": "alexcampelo@gmail.com",
+  "password": "alexcampelo@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0,
+  "name": "Alex Campelo"
+},
+{
+  "_id": {
+    "$oid": "656eef1470a3653298c28d45"
+  },
+  "email": "clarinete@gmail.com",
+  "password": "clarinete@gmail.com",
+  "favorites": [
+    {
+      "$oid": "65700b9850fc1582fec12d37"
+    }
+  ],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d37"
+    }
+  ],
+  "__v": 0,
+  "name": "Clarisse"
+},
+{
+  "_id": {
+    "$oid": "656f6d87b3155269beb9240d"
+  },
+  "email": "teste@gmail.com",
+  "password": "teste@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0,
+  "name": "Teste da Silva"
+},
+{
+  "_id": {
+    "$oid": "6570c9e8ccb7b30389b552ea"
+  },
+  "name": "Selena Gomes Silva",
+  "email": "faustonete101@gmail.com",
+  "password": "selenator@gmail.com",
+  "favorites": [
+    {
+      "$oid": "656e78204b8566e70840de59"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d30"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d36"
+    },
+    {
+      "$oid": "656e78204b8566e70840de57"
+    },
+    {
+      "$oid": "656e78204b8566e70840de55"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d33"
+    }
+  ],
+  "toReadList": [
+    {
+      "$oid": "656e78204b8566e70840de57"
+    }
+  ],
+  "reading": [
+    {
+      "$oid": "65700b9850fc1582fec12d33"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d32"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "656e78204b8566e70840de58"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c5"
+    },
+    {
+      "$oid": "656e78204b8566e70840de55"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657206c13b0c3fe04ab6a00a"
+  },
+  "name": "Justin",
+  "email": "justion@juntion",
+  "password": "justion@juntion",
+  "favorites": [],
+  "toReadList": [
+    {
+      "$oid": "65700b9850fc1582fec12d32"
+    }
+  ],
+  "reading": [
+    {
+      "$oid": "65700b9850fc1582fec12d38"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d35"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d38"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d33"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572158c244248d567fc0b05"
+  },
+  "name": "Harry Potter",
+  "email": "theBoyWhoLived@gmail.com",
+  "password": "theBoyWhoLived@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700e62f674421bfa2d40c4"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657240fc3747815c6c1ce043"
+  },
+  "name": "Pabllo Vitar",
+  "email": "envolvente@gmail.com.br",
+  "password": "envolvente@gmail.com",
+  "favorites": [
+    {
+      "$oid": "65700e62f674421bfa2d40c4"
+    }
+  ],
+  "toReadList": [
+    {
+      "$oid": "65700e62f674421bfa2d40c3"
+    }
+  ],
+  "reading": [
+    {
+      "$oid": "65700b9850fc1582fec12d39"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    },
+    {
+      "$oid": "65700b9850fc1582fec12d30"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700e62f674421bfa2d40c4"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657243663747815c6c1ce083"
+  },
+  "name": "Gloria",
+  "email": "groveeee@gmail.com",
+  "password": "groveeee@gmail.com",
+  "favorites": [
+    {
+      "$oid": "656e78204b8566e70840de57"
+    }
+  ],
+  "toReadList": [],
+  "reading": [
+    {
+      "$oid": "656e78204b8566e70840de57"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d3a"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572438f3747815c6c1ce093"
+  },
+  "name": "Anitta",
+  "email": "lucicreiadesolza@gmail.com",
+  "password": "lucicreiadesolza@gmail.com",
+  "favorites": [
+    {
+      "$oid": "65700b9850fc1582fec12d34"
+    }
+  ],
+  "toReadList": [],
+  "reading": [
+    {
+      "$oid": "656e78204b8566e70840de56"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d34"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657243c23747815c6c1ce0a3"
+  },
+  "name": "Paulo",
+  "email": "pv@gmail.com",
+  "password": "pv@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [
+    {
+      "$oid": "65700b9850fc1582fec12d30"
+    }
+  ],
+  "finishedBooks": [
+    {
+      "$oid": "65700b9850fc1582fec12d31"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657244b53747815c6c1ce0b0"
+  },
+  "name": "Chico",
+  "email": "chico@gmail.com",
+  "password": "chico@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657244c03747815c6c1ce0b2"
+  },
+  "name": "Flavio",
+  "email": "flavio@gmail.com",
+  "password": "flavio@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657244d03747815c6c1ce0b4"
+  },
+  "name": "Ariel",
+  "email": "fundodomar@gmail.com",
+  "password": "fundodomar@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657244e73747815c6c1ce0b6"
+  },
+  "name": "Faustao",
+  "email": "domingao@gmail.com",
+  "password": "domingao@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657244f93747815c6c1ce0b8"
+  },
+  "name": "Taylor Swift",
+  "email": "taytay@gmail.com",
+  "password": "taytay@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657245363747815c6c1ce0ba"
+  },
+  "name": "Travis",
+  "email": "swiftieforEva@gmail.com",
+  "password": "swiftieforEva@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657245423747815c6c1ce0bc"
+  },
+  "name": "Justin",
+  "email": "troublemaker@gmail.com",
+  "password": "troublemaker@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657245593747815c6c1ce0be"
+  },
+  "name": "John",
+  "email": "johndasneves@gmail.com",
+  "password": "johndasneves@gmail.com",
+  "favorites": [],
+  "toReadList": [],
+  "reading": [],
+  "finishedBooks": [],
+  "__v": 0
+}]

@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Nav Menu */
+.navbar{
+    background-color: black;
+}
+
+.search-icon{
+    margin-left: 5px;
+}
+
+.item-logo{
+    color: #fff;
+    font-size: 1.5rem;
+    align-self: center;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+/* Body */
+.content {
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    margin-bottom: 100px;
+}
+
+.content h2{
+    padding-top: 15px;
+}
+.btn{
+    margin: 0px 15px;
+}
+
+#btn-profile{
+    margin:0px 20px;
+}
+
+/* Result search */
+.results{
+    padding: 15px;
+    background-color: #b7d8f0;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* User Profile CSS */
+.profile{
+    padding-left: 15px;
+    padding-top: 0.5px;
+    margin-top: 5px;
+    background-color: #b7d8f0;
+    border-radius: 10px;
+}
+
+.right-column-profile{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 10px;
+}
+
+.left-column-profile{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+}
+
+/* TabComponent */
+#tab-component {
+    padding: 10px 40px;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;    
+}
+
+#tab-component:hover{
+    background-color: #7ab5df;
+}
+.tab-component-header .active {
+    background-color: #b7d8f0;
+    color: black;
+    font-weight: bold;
+}
+
+.tab-text {
+    border: 2px solid #000000;
+    padding: 10px; 
+}
+
+/* FavoritesComponent.css */
+.favorites-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+.favorites-table th, .favorites-table td {
+    padding: 8px;
+    text-align: left;
+}  
+.even-row {
+    background-color: #f2f2f2;
+}
+  
+.odd-row {
+    background-color: #ffffff;
+}
+  
+.favorites-table td:last-child {
+    text-align: center;
+}
+  
+  /* Optional: Style for the delete button */
+.favorites-table button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+  
+.favorites-table button:hover {
+    background-color: #c82333;
+}
+  
+  
+/* Book */
+.book img{
+    align-self: center;
+}
+
+.trending {
+    text-align: center; 
+}
+
+.phase {
+    text-align: center; 
+    padding: 30px;
+    background-color: #b7d8f0;
+    border-radius: 10px;
+}
+
+.phase::first-letter {
+    -webkit-initial-letter: 4;
+            initial-letter: 4;
+    color:#41525e;
+    font-weight: bold;
+    margin-right: .75em;
+}
+
+.top-three {
+    text-align: center;
+}
+
+.carrosel-content{
+    background-color: #7ab5df;
+    padding: 10px;
+}
+
+.centered-book-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.trending h3, .top-three h3{    
+    text-shadow: 0 2px 5px #7ab5df;
+    margin-top: 30px;    
+    text-align: end;
+    font-variant: small-caps;
+}
+
+#hr-style{
+    width: 100%;
+    text-align: right;
+    margin-right: 0;
+}
+
+.divided-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+}
+  
+.left-column,
+.right-column {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+.right-subcolumn {
+    display: flex;    
+    flex-direction: unset;
+    flex: 1;
+    margin-right: 16px; 
+    border: 1px solid #ccc; 
+}
+
+.bookDetail{
+    margin-top: 20px;
+}
+
+.user-actions-book {
+    align-items: center;
+    text-align: center;
+}
+
+.image-text-container {
+    display: flex;
+    align-items: center;
+    background-color: #b7d8f0;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.image-text-container-bottom{
+    margin-top: 10px;
+    align-items: center;
+}
+
+.left-column {
+    margin-right: 20px; 
+}
+
+.small-image {
+    width: 50px; 
+    height: auto;
+}
+
+.right-column {
+    flex: 1; 
+}
+  
+
+/* Footer */
+.footerBar {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-decoration: none;
+    background-color: black;
+    position: fixed; 
+    bottom: 0;
+    left: 0; 
+    width: 100%;
+    height: 90px; 
+    padding-top: 10px;
+    margin-top: 5px;
+    color: #fff;
+}
+
+.item-footer{
+    font-size: 1.5rem;
+    align-items: center;
+    text-align: center;
+}
+
+#copyright{
+    font-size: 1rem;
+    text-align: center;
+}
+
+.book{
+    display: inline-block;
+    background: #ffffff;
+    border-radius: 7px;
+    text-align: center;
+    box-shadow: 0 2px 5px #b7d8f0;
+    padding: 10px;
+    align-self: center;
+    width: 300px;
+    margin: 16px;
+}
+
+.book .image{
+    text-align: center;
+}
+.trending{
+    margin-top: 10px;
+}
+
