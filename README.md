@@ -29,3 +29,12 @@ git clone git@github.com:ericazpcalaca/bookmark-nest.git
 3. For the "books" collection, import from `bookmark-nestDB.books.json` 
 
 ## Previews
+### Main Page
+<img width="1000" alt="image" src="https://github.com/ericazpcalaca/bookmark-nest/assets/15451346/fb9bde71-e46b-4fd6-ae84-e0619eb12cdd">
+
+
+### About the Book
+<img width="1000" alt="image" src="https://github.com/ericazpcalaca/bookmark-nest/assets/15451346/2edf291c-158c-4fb9-a3ff-ea77e8961c07">
+
+### Profile
+<img width="1000" alt="image" src="https://github.com/ericazpcalaca/bookmark-nest/assets/15451346/0f22f99f-2b15-4d22-a0a1-ddce9498150d">
